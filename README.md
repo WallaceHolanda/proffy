@@ -1,2 +1,2 @@
 # proffy
-project developed at event "Next Level Week 2"
+project developed at "Next Level Week 2" course
